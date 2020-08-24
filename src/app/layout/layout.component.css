@@ -1,0 +1,18 @@
+:root {
+  --icon-height: 32.5px;
+}
+
+.Bitmap {
+    width: 187.5px;
+    height: var(--icon-height);
+    background-color: #007172;
+}
+
+.Rectangle-1980 {
+  position: relative;
+  top: calc(var(--icon-height) + 42.6px);
+  width: 97.5px;
+  height: 109.1px;
+  border-radius: 4.6px;
+  background-color: #017172;
+}

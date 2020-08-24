@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "taiwan01"
+    }
+  },
+  "defaultProject": "taiwan01",
+  "cli": {
+    "analytics": false
+  }
 }
